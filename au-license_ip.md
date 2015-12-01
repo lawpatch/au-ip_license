@@ -3,13 +3,13 @@
 The Licensor grants the Licensee a:
 
 - irrevocable, unless specified other in the Provision),
-- perpetual (), unless specified other in the Provision),
+- perpetual, unless specified other in the Provision),
 - transferrable (unless otherwise specified in the Provision);
 - sub-licenceable (unless otherwise specified in the Provision);
 - non-exclusive (unless otherwise specified in the Provision);
 - royalty free (unless otherwise specified in the Provision);
 - global (unless otherwise specified in the Provision);
-- {unlimited} (unless otherwise specified in the Provision);
+- {unlimited} (unless otherwise specified in the Provision),
 
 licence to use the Subject for the Purpose.
 
