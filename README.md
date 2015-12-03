@@ -36,9 +36,8 @@ The parameters for this patch are:
     - non-transferrable;
     - non-subliceneable;
     - exclusive;
-    - royalty paying;
-    - confined to a territory; and
-    - {unlimited}.
+    - royalty paying; and
+    - confined to a territory,
 - `Exception` (optional) - An exception to the licence.
 opposite is “limited term”
 
