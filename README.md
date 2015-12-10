@@ -14,13 +14,13 @@ With a LawPatch intellectual property licence, the default approach is a permiss
 
 If you want your license to be irrevocable, perpetual, transferable, sub-licenceable, non-exclusive, royalty free and global, you just need to write:
 
-> Provider grants an <a href="" target="_blank">expansive licence</a> to the Customer in relation to the Code.
+> Provider grants an <a href="" target="_blank">expansive licence</a> to the Customer in relation to the Code for any purpose.
 
 Simple.
 
-If you want your licence to be **non-transferable** and exclusive (and expansive in every other way), you just need to write:
+If you want your licence to be **non-transferable** and **exclusive** (and expansive in every other way), you just need to write:
 
-> Provider grants an exclusive, non-transferable <a href="" target="_blank">licence</a> to the Customer to deal with the Code.
+> Provider grants an exclusive, non-transferable <a href="" target="_blank">licence</a> to the Customer to deal with the Code for any purpose.
 
 ### Parameters
 
