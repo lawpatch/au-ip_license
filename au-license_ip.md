@@ -8,11 +8,11 @@ The Licensor grants the Licensee a:
 - sub-licenceable (unless otherwise specified in the Provision);
 - non-exclusive (unless otherwise specified in the Provision);
 - royalty free (unless otherwise specified in the Provision); and
-- global (unless otherwise specified in the Provision);
+- global (unless otherwise specified in the Provision),
 
-licence to use the Subject for the Purpose.
+licence to the Intellectual Property Rights in the Subject for the Purpose.
 
-Where there is an Exception, the licence of Intellectual Property above will not apply to the subject of the Exception.
+Where there is an Exception, the licence of Intellectual Property Rights above will not apply to the subject of the Exception.
 
 ## Definitions
 
@@ -31,7 +31,7 @@ means the party licensing the Intellectual Property Rights in the Provision.
 means the exception to the licence of Intellectual Property Rights.
 
 ### Intellectual Property Rights
-means, with the exception of Moral Rights and other inalienable rights, all right, title and interest, in each of the following in Australia and throughout the world, whether registered, unregistered or pending registration, and whether conferred by statute, common law, equity or otherwise:
+means, with the exception of moral rights and other inalienable rights, all right, title and interest, in each of the following in Australia and throughout the world, whether registered, unregistered or pending registration, and whether conferred by statute, common law, equity or otherwise:
 - copyright;
 - trade marks;
 - trade names, brand names or indications of source, appellation or origin;
