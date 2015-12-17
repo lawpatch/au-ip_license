@@ -1,16 +1,14 @@
 ## License Intellectual Property Rights
 
-The Licensor grants the Licensee a:
+The Licensor grants the Licensee a licence to the Intellectual Property Rights in the Subject for the Purpose. Unless otherwise specified in the Provision the licence is:
 
-- irrevocable (unless specified otherwise in the Provision);
-- perpetual (unless specified otherwise in the Provision);
-- transferrable (unless otherwise specified in the Provision);
-- sub-licenceable (unless otherwise specified in the Provision);
-- non-exclusive (unless otherwise specified in the Provision);
-- royalty free (unless otherwise specified in the Provision); and
-- global (unless otherwise specified in the Provision),
-
-licence to the Intellectual Property Rights in the Subject for the Purpose.
+- irrevocable;
+- perpetual;
+- transferrable;
+- sub-licenceable;
+- non-exclusive;
+- royalty free; and
+- global.
 
 Where there is an Exception, the licence of Intellectual Property Rights above will not apply to the subject of the Exception.
 
