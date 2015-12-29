@@ -18,9 +18,9 @@ If you want your license to be irrevocable, perpetual, transferable, sub-licence
 
 Simple.
 
-If you want your licence to be **non-transferable** and **exclusive** (and expansive in every other way), you just need to write:
+If you want your licence to be **non-transferable**, **exclusive** and applicable **only in Australia** (but expansive in every other way), you just need to write:
 
-> Provider grants an exclusive, non-transferable <a href="" target="_blank">licence</a> to the Customer to deal with the Code for any purpose.
+> Provider grants an exclusive, non-transferable <a href="" target="_blank">licence</a> to the Customer to deal with the Code in Australia for any purpose.
 
 ### Parameters
 
