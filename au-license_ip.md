@@ -19,10 +19,10 @@ Defined terms in this document will have the meanings described below.
 ### Agreement
 means the terms and conditions constituting the agreement that incorporates this document.
 
-### Licensor
+### Licensee
 means the party receiving the licence of the Intellectual Property Rights in the Provision.
 
-### Licensee
+### Licensor
 means the party licensing the Intellectual Property Rights in the Provision.
 
 ### Exception
