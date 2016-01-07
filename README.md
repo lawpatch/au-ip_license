@@ -12,9 +12,9 @@ Licensing intellectual property is a technical area.  If you want to draft a lic
 
 With a LawPatch intellectual property licence, the default approach is a permissive license.  The reason we've taken this approach is that, in our transactional experience, parties tend to discuss restrictions.  With a default permissive position, the restrictions are highlighted.
 
-If you want your license to be irrevocable, perpetual, transferable, sub-licenceable, non-exclusive, royalty free and global, you just need to write:
+If you want your license to be irrevocable, perpetual, transferable, sub-licensable, non-exclusive, royalty free and global, you just need to write:
 
-> Provider grants an <a href="" target="_blank">expansive licence</a> to the Customer in relation to the Code for any purpose.
+> Provider grants an <a href="https://github.com/lawpatch/au-ip_license/blob/5a7f77c72443475d8d34fc0487547dfac0671287/au-license_ip.md" target="_blank">expansive licence</a> to the Customer in relation to the Code for any purpose.
 
 Simple.
 
@@ -36,7 +36,7 @@ The parameters for this patch are:
     - revocable;
     - limited term;
     - non-transferrable;
-    - non-subliceneable;
+    - non-sublicensable;
     - exclusive;
     - royalties due; and
     - confined to a territory,

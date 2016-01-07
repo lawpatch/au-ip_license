@@ -5,7 +5,7 @@ The Licensor grants the Licensee a licence to the Intellectual Property Rights i
 - irrevocable;
 - perpetual;
 - transferrable;
-- sub-licenceable;
+- sub-licensable;
 - non-exclusive;
 - royalty free; and
 - global.
