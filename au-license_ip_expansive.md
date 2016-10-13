@@ -13,7 +13,7 @@
 - Where there is an Exception, the licence of Intellectual Property Rights above will not apply to the subject of the Exception.
 - The licence granted above will be subject to any terms and conditions specified in the Provision.
 - Licensor warrants that the Licensee's legitimate exercise of the licensed Intellectual Property Rights for the Purpose will not infringe the rights of any third party.
-- Licensor warrants that it will give and obtain any Moral Rights waivers and consents necessary to ensure the Licensee can use the Intellectual Property Rights for the Purpose without infringing Moral Rights.
+- Licensor gives, and warrants that it will obtain, any Moral Rights waivers and consents necessary to ensure the Licensee can use the Intellectual Property Rights for the Purpose without infringing Moral Rights.
 
 ## Definitions
 
